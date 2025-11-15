@@ -7,7 +7,7 @@ This project focuses on **predicting heart attack occurrences** using clinical a
 
 ## Visuals & Demo
 
-* **Project Diagram & Visuals:** ![EDA & Features](images/eda_visuals.png)  
+* **Project Diagram & Visuals:** ![EDA & Features](images/image.png)  
 * **Documentation Notebook:** [Download PDF](assets/documentation.pdf)
 
 ---
